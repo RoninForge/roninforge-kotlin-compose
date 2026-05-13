@@ -1,0 +1,23 @@
+{
+  "name": "roninforge-kotlin-compose",
+  "version": "1.0.0",
+  "description": "Modern Android development rules: Kotlin 2.x (K2 compiler) + Jetpack Compose + Material 3. Teaches StateFlow + collectAsStateWithLifecycle, Hilt + hiltViewModel(), type-safe Navigation Compose, KSP, Version Catalogs, Compose Compiler plugin (Kotlin 2.0+). Catches 20 legacy regressions including findViewById, GlobalScope, LiveData, Material 2, force-unwrap, lowercase composables, LazyColumn without key.",
+  "author": {
+    "name": "RoninForge",
+    "url": "https://roninforge.org"
+  },
+  "homepage": "https://github.com/RoninForge/roninforge-kotlin-compose",
+  "repository": "https://github.com/RoninForge/roninforge-kotlin-compose",
+  "license": "MIT",
+  "keywords": [
+    "kotlin",
+    "android",
+    "jetpack-compose",
+    "compose-material3",
+    "hilt",
+    "ksp",
+    "navigation-compose",
+    "stateflow",
+    "anti-patterns"
+  ]
+}
